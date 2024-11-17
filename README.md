@@ -4,7 +4,7 @@
      
  **Lunix -        PowerShell**
 
-   cp             Copy-Item
+   cp             Copy-Item   
    rm             Remove-Item
    cd             Set-Location
    mkdir          New-Item -ItemType Directory
