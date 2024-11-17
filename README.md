@@ -11,4 +11,10 @@
    man              Get-Help     
    history          Get-History     
    alias            Set-Alias     
-   cat              Get-content   
+   cat              Get-content  
+
+| Lunix    | PowerShell |
+| -------- | -------    |
+| January  | $250       |
+| February | $80        |
+| March    | $420       |
