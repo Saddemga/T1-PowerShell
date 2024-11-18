@@ -10,7 +10,7 @@
 |  mkdir   | New-Item -ItemType Directory|
 |  man     | Get-Help                    |
 | history  | Get-History                 |
-|  alias   | Set-Alias                   |
+| alias    |  Get-Help alias : tous les comandes qui est possible de faire liée alias |
 |  cat     | Get-content                 |
 
  
